@@ -8,7 +8,7 @@ This repository is created to help students and beginners understand Docker in a
 ## 📖 What You’ll Find Here
 - Easy explanations of Docker concepts  
 - Step-by-step learning materials  
-- Examples to practice and explore  
+- Examples to practice and explores  
 
 ---
 
